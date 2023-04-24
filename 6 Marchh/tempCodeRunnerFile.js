@@ -1,0 +1,1 @@
+let result = regex.test(string);
