@@ -1,0 +1,11 @@
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: cornflowerblue;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
